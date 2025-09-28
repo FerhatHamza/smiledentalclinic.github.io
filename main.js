@@ -1,5 +1,5 @@
 // Replace this with your Google Apps Script Web App URL
-const SCRIPT_URL = "PASTE_YOUR_SCRIPT_URL_HERE";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzF9mFW-ZdbimX3wRj6BA0DzCfW7aCjRMGVUPE7p0E09q73cwl-76kkIUj5a1r9ACVUwg/exec";
 
 document.getElementById("appointmentForm").addEventListener("submit", async (e) => {
   e.preventDefault();
